@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-5c2gpr.koi888win.online/sitemap.xml
